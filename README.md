@@ -1,4 +1,4 @@
-### Olá! Eu sou o Geovane🖐️
+### Hello! I'm Geovane🖐️
 
 
 
@@ -6,12 +6,16 @@
 
 <p align="center">I love ❤️ solving big challenges using technology. I really like and identify with technology and I am currently studying Systems Analysis and Development. During my journey, I have taken courses in programming, cybersecurity, networking and cloud computing. I value teamwork and collaboration, as I believe that together we can achieve incredible results. I am always looking for new challenges and opportunities to expand my knowledge and contribute to the world of technology!.</p>&nbsp;
 
+
+<div align="center">
+<img src="(https://github.com/user-attachments/assets/dec25554-7713-464f-8cb5-d9cd085f6565)" width="700px" />
+</div>
+
 <div align="center" style="margin-bottom:100px">
     <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=geovanefern467&theme=radical&mode=weekly" />
     <img width=40% align="center" src="https://github-readme-stats-git-main-geovanefern467.vercel.app/api/top-langs/?username=geovanefern467&show_icons=true&theme=radical&layout=compact" />
 </div>
 
- 
  &nbsp;
  &nbsp;
 
