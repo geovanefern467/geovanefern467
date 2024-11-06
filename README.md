@@ -53,16 +53,20 @@
 
 #### Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Scanner](https://img.shields.io/badge/Scanner-007ACC?style=for-the-badge&logo=scanner&logoColor=white)&nbsp;
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)&nbsp;
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
-![Google Colab](https://img.shields.io/badge/Google_Colab-FC6D26?style=for-the-badge&logo=google-colab&logoColor=white)&nbsp;
+<!-- Primeira linha com as badges até o Scanner -->
+<div>
+  <img src="https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scanner-007ACC?style=for-the-badge&logo=scanner&logoColor=white" />
+</div>
 
-
-
+<!-- Segunda linha com o restante das badges -->
+<div>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-FC6D26?style=for-the-badge&logo=google-colab&logoColor=white" />
+</div>
 
 
 &nbsp;
