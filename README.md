@@ -17,20 +17,6 @@
 </p>
 
 
-
-
-
-
-<br><br>
-
-
-</div>
-
- &nbsp;
- &nbsp;
-
-
-
 ## My Skills
 
 #### Main Stack:
@@ -49,6 +35,11 @@
 ![Office](https://img.shields.io/badge/Microsoft%20Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=for-the-badge&logo=security&logoColor=white)&nbsp;
 ![Networking](https://img.shields.io/badge/Redes%20de%20Computadores-4CAF50?style=for-the-badge&logo=networking&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+
+
 
 
 
@@ -68,6 +59,9 @@
 ![Scanner](https://img.shields.io/badge/Scanner-007ACC?style=for-the-badge&logo=scanner&logoColor=white)&nbsp;
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
+![Google Colab](https://img.shields.io/badge/Google_Colab-FC6D26?style=for-the-badge&logo=google-colab&logoColor=white)&nbsp;
+
+
 
 
 
@@ -77,11 +71,16 @@
 ## Contacts:
 
 <div> 
-<a href = "emailto:contact.geovanefern467@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/geovane-de-arruda-fernandes-ribeiro-1595b02b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
+  <!-- Link para o e-mail -->
+  <a href="mailto:contact.geovanefern467@gmail.com"> 
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
 
-  
-  
+  <!-- Link para o LinkedIn -->
+  <a href="https://www.linkedin.com/in/geovane-de-arruda-fernandes-ribeiro-1595b02b1/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>&nbsp;&nbsp;
+
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
