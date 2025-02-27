@@ -4,7 +4,7 @@
 
 
 
-<p align="center">I love ❤️ solving big challenges using technology. I really like and identify with technology and I am currently studying Systems Analysis and Development. During my journey, I have taken courses in programming, cybersecurity, networking and cloud computing. I value teamwork and collaboration, as I believe that together we can achieve incredible results. I am always looking for new challenges and opportunities to expand my knowledge and contribute to the world of technology!.</p>&nbsp;
+<p align="center">I love ❤️ solving big challenges using technology. I really like and identify with technology and I'm currently studying Computer Science. During my journey, I've taken courses in programming, cybersecurity, networking, and cloud computing. I value teamwork and collaboration, as I believe that together we can achieve incredible results. I'm always looking for new challenges and opportunities to expand my knowledge and contribute to the world of technology!.</p>&nbsp;
 
 <p align="left">
   <!-- Estatísticas de GitHub -->
